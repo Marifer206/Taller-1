@@ -30,6 +30,10 @@ else:
 ```
 
 
+
+
+
+
 ***3.Realice un programa que lea un número enteros y determine si es par o impar.***
 
 
@@ -41,5 +45,26 @@ if n % 2 == 0:
 else:
     print("El número " + str(n) + " es impar")
  ```
+ 
+ 
+ 
+ 
+***4.Realice un programa que lea dos números reales y determine si el primero es múltiplo del segundo.***
+
+
+
+
+```ruby
+i : float
+s : float
+#El número mayor a evaluar debe ser el primero que se ingrese.
+
+i = float(input("Ingrese el primer número"))
+s = float(input("Ingrese el segundo número"))
+if i % s == 0:
+    print("El número " + str(i) + " es multiplo de " + str(s) )
+else:
+    print("El número " + str(i) + " no es multiplo de " + str(s) )
+```
 
 
