@@ -67,7 +67,6 @@ else:
  
  
  
- [![Taller-11.png](https://i.postimg.cc/CKV3FTGw/Taller-11.png)](https://postimg.cc/sMw6cLHL)
  
  
  
@@ -92,7 +91,6 @@ else:
 
 
 
-[![taller-13.png](https://i.postimg.cc/Rhnd6qmy/taller-13.png)](https://postimg.cc/rRMx7VKN)
 
 
 
@@ -123,7 +121,6 @@ else:
 
 
 
-[![taller-15.png](https://i.postimg.cc/Kjn9p4WL/taller-15.png)](https://postimg.cc/CnxHzMSL)
 
 
 
@@ -149,7 +146,7 @@ else:
 
 
 
-[![taller-16.png](https://i.postimg.cc/CKwVGBc3/taller-16.png)](https://postimg.cc/Bj7ys69p)
+
 
 
 
