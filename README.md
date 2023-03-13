@@ -28,3 +28,16 @@ elif b > a and b > c:
 else:
     print("El tercer número es el mayor ")
 ```
+
+
+***3.Realice un programa que lea un número enteros y determine si es par o impar.***
+
+
+```ruby
+n : int
+n = int(input("Ingrese el número "))
+if n % 2 == 0:
+    print("El número es par")
+else:
+    print("El número es impar")
+ ```
