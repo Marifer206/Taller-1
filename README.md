@@ -79,6 +79,14 @@ else:
 
 
 
+
+[![taller-13.png](https://i.postimg.cc/Rhnd6qmy/taller-13.png)](https://postimg.cc/rRMx7VKN)
+
+
+
+
+
+
 ***5.Realice un programa que lea tres números reales y determine si la suma de los dos primeros es mayor, menor o igual que el tercer número.***
 
 ```ruby
