@@ -243,3 +243,55 @@ else:
 
 
 ***9.Escriba un programa que reciba el nombre en minúsculas de un país de America y retorne la ciudad capital, si el país no pertenece al continente debe arrojar país no identificado.***
+
+
+
+
+```ruby
+a = (input("Inserte el nombre del pais en minuscula"))
+
+if a == "argentina":
+    print("La capital de " + str(a) + " es Buenos Aires" )
+elif a == "bolivia":
+    print("La capital de " + str(a) + " La Paz" )
+elif a == "brasil":
+    print("La capital de " + str(a) + " es Brasilia" )
+elif a == "canada":
+    print("La capital de " + str(a) + " es Ottawa" )
+elif a == "chile":
+    print("La capital de " + str(a) + " es Santiago de Chile" )
+elif a == "colombia":
+    print("La capital de " + str(a) + " es Bogotá" )
+elif a == "costa rica":
+    print("La capital de " + str(a) + " es San José" )
+elif a == "cuba":
+    print("La capital de " + str(a) + " es La Habana" )
+elif a == "ecuador":
+    print("La capital de " + str(a) + " Quito" )
+elif a == "estados unidos" or a == "eeuu":
+    print("La capital de " + str(a) + " es Washington" )
+elif a == "guatemala":
+    print("La capital de " + str(a) + " es Ciudad de Guatemala  " )
+elif a == "honduras":
+    print("La capital de " + str(a) + " es Tegucigalpa" )
+elif a == "mexico":
+    print("La capital de " + str(a) + " es Ciudad de México" )
+elif a == "nicaragua":
+    print("La capital de " + str(a) + " es Managua" )
+elif a == "panama":
+    print("La capital de " + str(a) + " es Ciudad de Panamá" )
+elif a == "paraguay":
+    print("La capital de " + str(a) + " es Asunción" )
+elif a == "peru":
+    print("La capital de " + str(a) + " es Lima" )
+elif a == "puerto rico":
+    print("La capital de " + str(a) + " es San Juan  " )
+elif a == "república dominicana":
+    print("La capital de " + str(a) + " es Santo Domingo" )
+elif a == "uruguay":
+    print("La capital de " + str(a) + " es Montevideo" )
+elif a == "venezuela":
+    print("La capital de " + str(a) + " es Caracas " )
+else:
+    print("País no identificado")
+```
