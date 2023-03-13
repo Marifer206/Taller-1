@@ -109,3 +109,51 @@ else:
  ```
 
 
+
+
+[![taller-15.png](https://i.postimg.cc/Kjn9p4WL/taller-15.png)](https://postimg.cc/CnxHzMSL)
+
+
+
+
+
+
+***6.Escriba un programa que solicite al usuario una letra y determine si es una vocal o una consonante.
+
+
+
+
+```ruby
+letra = input("Ingresa una letra: ")
+
+if len(letra) != 1:
+    print("Error: Por favor ingresa una única letra.")
+elif letra in 'aeiouAEIOU':
+    print("La letra ingresada " + str(letra) + " es una vocal.")
+else:
+    print("La letra ingresada " + str(letra) + " es una consonante.")
+
+```
+
+
+
+[![taller-16.png](https://i.postimg.cc/CKwVGBc3/taller-16.png)](https://postimg.cc/Bj7ys69p)
+
+
+
+
+
+
+
+***7. Escriba un programa que pida 5 números reales y calcule las siguientes operaciones:
+
+°El promedio
+°La mediana
+°El promedio multiplicativo (multilplica todos y luego calcula la raíz de la cantidad de operandos)
+°Ordenar los números de forma ascendente
+°Ordenar los números de forma descendente
+°La potencia del mayor número elevado al menor número
+°La raíz cúbica del menor número
+
+
+
