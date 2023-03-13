@@ -37,7 +37,9 @@ else:
 n : int
 n = int(input("Ingrese el número "))
 if n % 2 == 0:
-    print("El número es par")
+    print("El número " + str(n) + " es par")
 else:
-    print("El número es impar")
+    print("El número " + str(n) + " es impar")
  ```
+
+
