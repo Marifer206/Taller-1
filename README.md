@@ -55,6 +55,10 @@ else:
  
  
  
+ [![Taller-11.png](https://i.postimg.cc/CKV3FTGw/Taller-11.png)](https://postimg.cc/sMw6cLHL)
+ 
+ 
+ 
 ***4.Realice un programa que lea dos números reales y determine si el primero es múltiplo del segundo.***
 
 
