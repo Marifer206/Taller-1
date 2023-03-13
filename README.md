@@ -69,6 +69,25 @@ else:
 
 
 
-***5.Realice un programa que lea tres números reales y determine si la suma de los dos primeros es mayor, menor o igual que el tercer número.
+***5.Realice un programa que lea tres números reales y determine si la suma de los dos primeros es mayor, menor o igual que el tercer número.***
+
+```ruby
+a : float
+b : float
+c : float
+
+a = float(input(" Ingrese el primer número: "))
+b = float(input(" Ingrese el segundo número: "))
+c = float(input(" Ingrese el tercer número: "))
+
+if a + b > c:
+    print("La suma de " + str(a) + " y " + str(b) + " es mayor que "+ str(c))
+
+elif a + b < c:
+    print("La suma de " + str(a) + " y " + str(b) + " es menor que "+ str(c))
+else: 
+    if a + b == c:
+        print("La suma de " + str(a) + " y " + str(b) + " es igual que "+ str(c))
+ ```
 
 
