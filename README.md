@@ -118,7 +118,7 @@ else:
 
 
 
-***6.Escriba un programa que solicite al usuario una letra y determine si es una vocal o una consonante.
+***6.Escriba un programa que solicite al usuario una letra y determine si es una vocal o una consonante.***
 
 
 
