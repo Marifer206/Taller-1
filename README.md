@@ -24,11 +24,16 @@ c = float(input("Ingrese el tercer número: "))
 if a > b and a > c:
     print("El primer número " + str(a) + "  es el mayor ")
 elif b > a and b > c:
-    print("El segundo " + str(b) + " número es el mayor ")
+    print("El segundo número " + str(b) + " número es el mayor ")
 else:
-    print("El tercer " + str(c) + " número es el mayor ")
-```
+    print("El tercer número " + str(c) + " número es el mayor ")
 
+
+
+
+
+
+[![Taller-1.png](https://i.postimg.cc/wT2y5gBG/Taller-1.png)](https://postimg.cc/GHBmd0GF)
 
 
 
