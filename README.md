@@ -1,10 +1,18 @@
-# Taller-1
+# Taller-1  :smile: :computer: :smile:
+
+# Grupo: 
+
+
+
 ## Desarrollo de taller #1;  Daniel Alejandro Archila Gómez {Programación de computadores}
+
+
 
 
 
 ***1. Realice el quiz Python Beginner Quiz (20 preguntas) y adjunte pantallazo con el resultado (mínimo 90% bien)***
 
+## :pencil:
 
 
 
@@ -34,7 +42,11 @@ else:
 
 
 
-[![Taller-1.png](https://i.postimg.cc/wT2y5gBG/Taller-1.png)](https://postimg.cc/GHBmd0GF)
+### Explicación:
+
+Este programa tiene Declarades sus variables 
+
+
 
 
 
