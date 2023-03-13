@@ -248,7 +248,7 @@ else:
 
 
 ```ruby
-a = (input("Inserte el nombre del pais en minuscula"))
+a = (input("Inserte el nombre del pais del que quiere conocer la capital; en minuscula "))
 
 if a == "argentina":
     print("La capital de " + str(a) + " es Buenos Aires" )
