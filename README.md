@@ -68,3 +68,7 @@ else:
 ```
 
 
+
+***5.Realice un programa que lea tres números reales y determine si la suma de los dos primeros es mayor, menor o igual que el tercer número.
+
+
