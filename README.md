@@ -239,3 +239,7 @@ elif s < 3e19:
 else:
     print("La frecuencia " + str(s) + " esta ubicada en ondas de rayos gamma" )
 ```
+
+
+
+***9.Escriba un programa que reciba el nombre en minúsculas de un país de America y retorne la ciudad capital, si el país no pertenece al continente debe arrojar país no identificado.***
