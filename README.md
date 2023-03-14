@@ -40,9 +40,9 @@ else:
 
 
 
-### Explicación:
+## Explicación:
 
-Este programa tiene Declarades sus variables y inicializadas; a este programa se le ingresan tres números reales y este determina cual es el número mayor de los ingresados.
+**Este programa tiene declaradas sus variables y inicializadas; a este programa se le ingresan tres números reales y este determina cual es el número mayor de los ingresados.**
 
 **Esto lo realiza con tres variables, usando desigualdades y utilizando if, elife y else**
 
@@ -63,6 +63,13 @@ if n % 2 == 0:
 else:
     print("El número " + str(n) + " es impar")
  ```
+ 
+ 
+ ## Explicación: 
+  
+ ***Este programa tiene una sola variable que n, la cual es un entero.***
+ ***El programa esta diseñado para leer un numero entero y determinar si este es impar o par, por medio la opercion de modulo.***
+ *** A la variable n se le aplica modul de dos y si este es igual a cero significa que n es un numero par, pero el resultado de esta oparacion es diferente a 0 significa que n es un numero impar***
  
  
  
