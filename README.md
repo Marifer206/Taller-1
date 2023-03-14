@@ -1,10 +1,10 @@
 # Taller-1  :smile: :computer: :smile:
 
-# Grupo: 
+# Grupo: Team rocket cazadores de pockebugd
 
 
 
-## Desarrollo de taller #1;  Daniel Alejandro Archila Gómez {Programación de computadores}
+## Desarrollo de taller #1;   {Programación de computadores}
 
 
 
@@ -147,6 +147,16 @@ else:
     if a + b == c:
         print("La suma de " + str(a) + " y " + str(b) + " es igual que "+ str(c))
  ```
+ 
+ ## Explicación:
+ 
+
+
+***A este programa se le ingresan tres numeros reales y dertermina si la suma de los dos primeros numeros es mayor, menor o igual que el tercer numero***
+
+***Este programa tiene declarado y inicializado tres variables que serian los numeros que se le ingresan, el programa determina la respuesta pro medio de 2 ecuaciones en los casos que sea mayor o menor la suma de los dos primeros numeros con respecto al tercer numero, mientras que en el caso que la suma del primer numero y el segundo sea igual el programa hara una igualdad.***
+
+***El programa da su respuesta dependiendo al resultado en la cual da los numeros ingresado y su respectiva respuesta para el codigo***
 
 
 
@@ -174,6 +184,11 @@ else:
 
 ```
 
+## Explicación:
+
+***A este programa se le ingresa una letra minuscula o mayuscula y el detemina si la letra ingresada es una vocal o una consonate, el programa solo tiene una variable que es inicializada como letra.  El programa al reconocer que hay mas de una letra expresa que solo se debe ingresar una letra.***
+
+***El programa tiene una estructura If, elif, else en su estructura.***
 
 
 
@@ -252,6 +267,11 @@ print(f"La potencia del mayor número ({mayor}) elevado al menor número ({menor
 print(f"La raíz cúbica del menor número ({min(lista_numeros)}) es: {raiz_cubica}")
 ```
 
+## Explicación: 
+
+***Este codigo tiene 5 variables, que son la cantidad de numeros que necesita para realizar su tarea, estas variables son numeros reales, a los cuales se les determina el promedio; sumandolos y dividiendolos por 5. Este codigo por medio de formulas como modulo, multiplicacion, suma , etc; Determina 7 valores deseaos como: promedio, mediana, promedio multiplicativo, orden ascendente y descendente , la potencia del mayor numero elevado al menor numero y la raiz cubica del menor numero; esos valores son arrojados en numeros reales***
+
+
 
 
 ***8.Escriba un programa al que se le ingrese la frecuencia de una onda en hz y como salida arroje en que parte del espectro electromagnético se encuentra.***
@@ -278,6 +298,10 @@ elif s < 3e19:
 else:
     print("La frecuencia " + str(s) + " esta ubicada en ondas de rayos gamma" )
 ```
+
+## Explicación:
+
+***El codigo tiene una sola variable s que es un numero real, y la cual es tomada como la frecuencia deseada a estudiar, el codigo resive esta frecuencia y por medio de unos ranagos determinados este mismo expresa en que parte del expectro electromagnético se encuentra. El codigo tiene un estructurado de if, elif y else en en el.   Y la variables esta expresada en la unidad hz y el codigo en sus rangos tiene expresado equivalencias de esta unidad para saber a que espectro electromagnético corresponde***
 
 
 
@@ -335,6 +359,12 @@ else:
     print("País no identificado")
 ```
 
+## Explicación:
+
+***Este codigo esta estructura con if, elif y else, este codigo fue el mas extenso de todos; este codigo resive el nombre de un pais de América escrito en minuscula y da respectivamente la capital del pais escrito; si el codigo no se encuentra, se expresar que el pais no ha sido identificado.   El codigo tiene una sola variable la cual es a, la cual fue directamente inicializada y la cual es el nombre del pais de América en minuscula al cual se le dara su capital***
+
+
+
 
 
 
@@ -378,3 +408,7 @@ print("El tiempo que tarda Usain Bolt en reccorrer " + str(d) + " m es de " + st
 ta = d/VEL_AUTO
 print("El tiempo que tarda el auto en reccorrer " + str(d) + " m es de " + str(td) + " segundos")
 ```
+
+## Explicación:
+
+***Este codigo consta de una sola variable la cual es d que es la distancia, la cual se le inserta en metros; el codigo tiene 4 Constantes, expresadas en numeros reales, que son las velocidades que se quieren estudiar en la unidad de metros sobre segundos . Las constantes dividen a la variables d y permiten expresar el tiempo que requeriria cada constante en recorrer la distancia d y el tiempo esta expresado en segundos, en codigo expresa los cuatro tiempos en segundos que se demoran las constantes en recorrer la distancia ingresada d.
