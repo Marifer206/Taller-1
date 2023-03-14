@@ -52,6 +52,8 @@ else:
 
 
 
+
+
 ***3.Realice un programa que lea un número enteros y determine si es par o impar.***
 
 
@@ -63,6 +65,10 @@ if n % 2 == 0:
 else:
     print("El número " + str(n) + " es impar")
  ```
+ 
+ 
+ 
+ 
  
  
  ## Explicación: 
@@ -77,6 +83,10 @@ else:
  
  
  
+
+
+
+
 ***4.Realice un programa que lea dos números reales y determine si el primero es múltiplo del segundo.***
 
 
@@ -94,6 +104,12 @@ if i % s == 0:
 else:
     print("El número " + str(i) + " no es multiplo de " + str(s) )
 ```
+
+## Explicación : 
+
+*** Este programa lee dos numeros reales y determina si el primero es muiltiplo del segundo***
+*** Tiene 2 variables las cuales son i y s, las cuales son flotantes y para determinar si i es multiplo de s : se utiliza la operacion modulo y si el modulo de i entre s es igual a cero significa que i es multiplo de s; si por otro lado el modulo no es cero significa que i no es multiplo de s
+
 
 
 
