@@ -10,9 +10,7 @@
 
 
 
-***1. Realice el quiz Python Beginner Quiz (20 preguntas) y adjunte pantallazo con el resultado (mínimo 90% bien)***
-
-## :pencil:
+***1. Realice el quiz Python Beginner Quiz (20 preguntas) y adjunte pantallazo con el resultado (mínimo 90% bien)*** :pencil:
 
 
 
@@ -44,7 +42,9 @@ else:
 
 ### Explicación:
 
-Este programa tiene Declarades sus variables 
+Este programa tiene Declarades sus variables y inicializadas; a este programa se le ingresan tres números reales y este determina cual es el número mayor de los ingresados.
+
+**Esto lo realiza con tres variables, usando desigualdades y utilizando if, elife y else**
 
 
 
