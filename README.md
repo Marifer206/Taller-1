@@ -107,8 +107,15 @@ else:
 
 ## Explicación : 
 
-*** Este programa lee dos numeros reales y determina si el primero es muiltiplo del segundo***
-*** Tiene 2 variables las cuales son i y s, las cuales son flotantes y para determinar si i es multiplo de s : se utiliza la operacion modulo y si el modulo de i entre s es igual a cero significa que i es multiplo de s; si por otro lado el modulo no es cero significa que i no es multiplo de s
+***Este programa lee dos numeros reales y determina si el primero es muiltiplo del segundo***
+***Tiene 2 variables las cuales son i y s, las cuales son flotantes y para determinar si i es multiplo de s : se utiliza la operacion modulo y si el modulo de i entre s es igual a cero significa que i es multiplo de s; si por otro lado el modulo no es cero significa que i no es multiplo de s***
+
+
+
+
+
+
+
 
 
 
