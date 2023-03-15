@@ -1,10 +1,11 @@
-# :checkered_flag: Taller-1  :smile: :computer: :smile:
+# :star: :checkered_flag: Taller-1 :checkered_flag: :star:
 
 # Grupo: Team rocket cazadores de pockebugd
+[![Team-rocket.png](https://i.postimg.cc/zvNyPVQD/Team-rocket.png)](https://postimg.cc/Pp6fCrh0)
 
 
 
-## Desarrollo de taller #1;   {Programación de computadores}
+# Desarrollo de taller #1;   {Programación de computadores} :smile: :computer:
 
 
 
