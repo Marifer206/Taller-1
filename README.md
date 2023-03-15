@@ -187,7 +187,15 @@ else:
 
 
 
-
+```mermaid
+flowchart TD
+    A(Inicio) --> B[Definir variables i:float y s: float]
+    B --> C[Inicializar variables con la funcion input para que el usuario pueda darle valor a las variables] --> D{el modulo entre las dos variables i%s da cero}
+    D --> |Si|E[La variable i es multiplo de s]
+    D --> |No|F[La variable i es multiplo de s]
+    E --> G[FIN]
+    F --> G[FIN]
+```
 
 
 
@@ -589,3 +597,20 @@ print("El tiempo que tarda el auto en reccorrer " + str(d) + " m es de " + str(t
 ## Explicación:
 
 ***Este codigo consta de una sola variable la cual es d que es la distancia, la cual se le inserta en metros; el codigo tiene 4 Constantes, expresadas en numeros reales, que son las velocidades que se quieren estudiar en la unidad de metros sobre segundos . Las constantes dividen a la variables d y permiten expresar el tiempo que requeriria cada constante en recorrer la distancia d y el tiempo esta expresado en segundos, en codigo expresa los cuatro tiempos en segundos que se demoran las constantes en recorrer la distancia ingresada d.***
+
+```mermaid
+flowchart TD
+    A(Inicio) --> B[Definir variable d : float]
+    B --> C[Inicializar variables con la funcion input para que el usuario pueda darle valor a la variable d que es la distancia que se quiere estudiar en metros] --> D[el modulo entre las dos variables i%s da cero]
+    D --> E[Definir como flotantes a las variables td,ts,tb,ta]
+    E --> F[Se dan valor a las variables de constantes: VEL_LUZ = 299792458, VEL_SONIDO = 343, VEL_BOLT = 11.6666,VEL_AUTO = 126.466]
+    F --> G[Realizar dividion entera de d/VEL_LUZ para dar valor de td]
+    G --> H[td = El tiempo que tarda la luz en reccorrer d es de td segundos] --> Z[Fin]
+    F --> I[Realizar dividion entera de d/VEL_SONIDO para dar valor de ts]
+    I --> J[ts = El tiempo que tarda el sonido en reccorrer d es de ts segundos]--> Z[Fin]
+    F --> L[Realizar dividion entera de d/VEL_BOLT para dar valor de tb]
+    L --> M[tb = El tiempo que tarda Usain Bolt en reccorrer d es de tb segundos]--> Z[Fin]
+    F --> Ñ[Realizar dividion entera de d/VEL_BOLT para dar valor de ta]
+    Ñ --> P[ta = El tiempo que tarda Usain Bolt en reccorrer d es de ta segundos]--> Z[Fin]
+
+```
