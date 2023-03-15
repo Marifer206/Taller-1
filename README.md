@@ -559,6 +559,8 @@ else:
 
 
 ```ruby
+#punto 10
+
 #d es distancia en metros 
 d : float
 d = float(input("Inserte la distancia que quiere estudiar en metros: " ))
@@ -579,13 +581,13 @@ td = d/VEL_LUZ
 print("El tiempo que tarda la luz en reccorrer " + str(d) + " m es de " + str(td) + " segundos")
 
 ts = d/VEL_SONIDO
-print("El tiempo que tarda el sonido en reccorrer " + str(d) + " m es de " + str(td) + " segundos")
+print("El tiempo que tarda el sonido en reccorrer " + str(d) + " m es de " + str(ts) + " segundos")
 
 tb = d/VEL_BOLT
-print("El tiempo que tarda Usain Bolt en reccorrer " + str(d) + " m es de " + str(td) + " segundos")
+print("El tiempo que tarda Usain Bolt en reccorrer " + str(d) + " m es de " + str(tb) + " segundos")
 
 ta = d/VEL_AUTO
-print("El tiempo que tarda el auto en reccorrer " + str(d) + " m es de " + str(td) + " segundos")
+print("El tiempo que tarda el auto en reccorrer " + str(d) + " m es de " + str(ta) + " segundos")
 ```
 
 
