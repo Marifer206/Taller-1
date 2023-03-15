@@ -1,4 +1,4 @@
-# Taller-1  :smile: :computer: :smile:
+# :checkered_flag: Taller-1  :smile: :computer: :smile:
 
 # Grupo: Team rocket cazadores de pockebugd
 
@@ -10,7 +10,7 @@
 
 
 
-***1. Realice el quiz Python Beginner Quiz (20 preguntas) y adjunte pantallazo con el resultado (mínimo 90% bien)*** :pencil:
+##  :triangular_flag_on_post: 1. Realice el quiz Python Beginner Quiz (20 preguntas) y adjunte pantallazo con el resultado (mínimo 90% bien)*** :pencil:
 
 
 **Quiz de : Daniel Alejandro Archila Gómez.**
@@ -48,7 +48,7 @@
 
 
 
-***2.Realice un programa que lea tres números reales y determine cuál es el mayor.***
+##  :triangular_flag_on_post: 2.Realice un programa que lea tres números reales y determine cuál es el mayor.***
 
 ```ruby
 a : float
@@ -104,7 +104,7 @@ else:
 
 
 
-***3.Realice un programa que lea un número enteros y determine si es par o impar.***
+##  :triangular_flag_on_post: 3.Realice un programa que lea un número enteros y determine si es par o impar.***
 
 
 ```ruby
@@ -158,7 +158,7 @@ else:
 
 
 
-***4.Realice un programa que lea dos números reales y determine si el primero es múltiplo del segundo.***
+##  :triangular_flag_on_post: 4.Realice un programa que lea dos números reales y determine si el primero es múltiplo del segundo.***
 
 
 
@@ -216,7 +216,7 @@ flowchart TD
 
 
 
-***5.Realice un programa que lea tres números reales y determine si la suma de los dos primeros es mayor, menor o igual que el tercer número.***
+##  :triangular_flag_on_post: 5.Realice un programa que lea tres números reales y determine si la suma de los dos primeros es mayor, menor o igual que el tercer número.***
 
 ```ruby
 a : float
@@ -274,7 +274,7 @@ else:
 
 
 
-***6.Escriba un programa que solicite al usuario una letra y determine si es una vocal o una consonante.***
+##  :triangular_flag_on_post: 6.Escriba un programa que solicite al usuario una letra y determine si es una vocal o una consonante.***
 
 
 
@@ -340,7 +340,7 @@ else:
 
 
 
-***7. Escriba un programa que pida 5 números reales y calcule las siguientes operaciones:***
+##  :triangular_flag_on_post: 7. Escriba un programa que pida 5 números reales y calcule las siguientes operaciones:***
 
 °El promedio
 
@@ -430,7 +430,7 @@ print(f"La raíz cúbica del menor número ({min(lista_numeros)}) es: {raiz_cubi
 
 
 
-***8.Escriba un programa al que se le ingrese la frecuencia de una onda en hz y como salida arroje en que parte del espectro electromagnético se encuentra.***
+##  :triangular_flag_on_post: 8.Escriba un programa al que se le ingrese la frecuencia de una onda en hz y como salida arroje en que parte del espectro electromagnético se encuentra.***
 
 ```ruby
 s : float
@@ -472,7 +472,7 @@ else:
 
 
 
-***9.Escriba un programa que reciba el nombre en minúsculas de un país de America y retorne la ciudad capital, si el país no pertenece al continente debe arrojar país no identificado.***
+##  :triangular_flag_on_post: 9.Escriba un programa que reciba el nombre en minúsculas de un país de America y retorne la ciudad capital, si el país no pertenece al continente debe arrojar país no identificado.***
 
 
 
@@ -548,7 +548,7 @@ else:
 
 
 
-***10.Escriba un programa que dada una distancia calcule***
+##  :triangular_flag_on_post: 10.Escriba un programa que dada una distancia calcule***
 °El tiempo que le tomaría a la luz recorrer la distancia.
 
 °El tiempo que le tomaría al sonido (en el aire) recorrer la distancia.
@@ -616,3 +616,5 @@ flowchart TD
     Ñ --> P[ta = El tiempo que tarda Usain Bolt en reccorrer d es de ta segundos]--> Z[Fin]
 
 ```
+
+## :checkered_flag: ESTO ES TODO AMIGOS, NOS VEMOS EN UN PROXIMO TALLER O RETO Y ESPERAMOS QUE ESTEN LISTOS PARA LOS PROBLEMAS Y MAS VALE QUE TEMAMOS :disappointed_relieved:
